@@ -1,3 +1,10 @@
+# First Step
+
+http://www.yoctoproject.org/docs/2.3.1/yocto-project-qs/yocto-project-qs.html
+
+
+
+
 # meta-ntfs
 
 如何使用这个meta
