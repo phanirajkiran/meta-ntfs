@@ -22,11 +22,11 @@ Means ,
 #### git pull origin master
 #### cd ..
 
-git clone git://git.yoctoproject.org/poky
-cd poky/
-git clone git://git.openembedded.org/meta-openembedded 
-source oe-init-build-env 
-bitbake-layers add-layer ../meta-openembedded/meta-oe
+#### git clone git://git.yoctoproject.org/poky
+#### cd poky/
+#### git clone git://git.openembedded.org/meta-openembedded 
+#### source oe-init-build-env 
+#### bitbake-layers add-layer ../meta-openembedded/meta-oe
 
 Adjust sequnce as per the requirement. 
 ---
